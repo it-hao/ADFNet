@@ -1,0 +1,132 @@
+2022-08-19 15:41:34 |[045]test.py     | Noise level: 50
+2022-08-19 15:41:34 |[047]test.py     | Loading model: pre_train/color_n50.pt Ensemble: False
+2022-08-19 15:42:42 |[044]test.py     | Noise level: 50
+2022-08-19 15:42:42 |[046]test.py     | Loading model: pre_train/color_n50.pt Ensemble: False
+2022-08-19 15:43:02 |[044]test.py     | Noise level: 50
+2022-08-19 15:43:02 |[046]test.py     | Loading model: pre_train/color_n50.pt Ensemble: False
+2022-08-19 15:43:05 |[117]test.py     | kodim01.png: PSNR 27.0258  SSIM 0.7713
+2022-08-19 15:43:05 |[117]test.py     | kodim02.png: PSNR 31.0685  SSIM 0.7874
+2022-08-19 15:43:06 |[117]test.py     | kodim03.png: PSNR 32.8102  SSIM 0.8834
+2022-08-19 15:43:06 |[117]test.py     | kodim04.png: PSNR 30.9693  SSIM 0.8080
+2022-08-19 15:43:07 |[117]test.py     | kodim05.png: PSNR 27.4192  SSIM 0.8214
+2022-08-19 15:43:07 |[117]test.py     | kodim06.png: PSNR 28.2941  SSIM 0.7944
+2022-08-19 15:43:08 |[117]test.py     | kodim07.png: PSNR 31.6211  SSIM 0.9076
+2022-08-19 15:43:08 |[117]test.py     | kodim08.png: PSNR 27.5375  SSIM 0.8487
+2022-08-19 15:43:09 |[117]test.py     | kodim09.png: PSNR 32.1100  SSIM 0.8795
+2022-08-19 15:43:09 |[117]test.py     | kodim10.png: PSNR 32.0314  SSIM 0.8665
+2022-08-19 15:43:10 |[117]test.py     | kodim11.png: PSNR 29.2293  SSIM 0.7873
+2022-08-19 15:43:10 |[117]test.py     | kodim12.png: PSNR 32.0261  SSIM 0.8271
+2022-08-19 15:43:11 |[117]test.py     | kodim13.png: PSNR 25.0038  SSIM 0.7080
+2022-08-19 15:43:11 |[117]test.py     | kodim14.png: PSNR 27.9770  SSIM 0.7532
+2022-08-19 15:43:12 |[117]test.py     | kodim15.png: PSNR 31.3142  SSIM 0.8391
+2022-08-19 15:43:12 |[117]test.py     | kodim16.png: PSNR 30.3371  SSIM 0.8029
+2022-08-19 15:43:13 |[117]test.py     | kodim17.png: PSNR 30.8099  SSIM 0.8407
+2022-08-19 15:43:14 |[117]test.py     | kodim18.png: PSNR 27.3705  SSIM 0.7658
+2022-08-19 15:43:14 |[117]test.py     | kodim19.png: PSNR 30.0557  SSIM 0.8133
+2022-08-19 15:43:15 |[117]test.py     | kodim20.png: PSNR 31.9003  SSIM 0.8671
+2022-08-19 15:43:15 |[117]test.py     | kodim21.png: PSNR 28.6185  SSIM 0.8362
+2022-08-19 15:43:16 |[117]test.py     | kodim22.png: PSNR 28.9533  SSIM 0.7553
+2022-08-19 15:43:16 |[117]test.py     | kodim23.png: PSNR 33.0191  SSIM 0.8959
+2022-08-19 15:43:17 |[117]test.py     | kodim24.png: PSNR 27.8229  SSIM 0.8102
+2022-08-19 15:43:17 |[128]test.py     | 
+PSNR on test data 29.805204, SSIM on test data 0.819600
+2022-08-19 15:43:17 |[129]test.py     | Finish!
+
+2022-08-19 15:43:33 |[044]test.py     | Noise level: 50
+2022-08-19 15:43:33 |[046]test.py     | Loading model: pre_train/color_n50.pt Ensemble: False
+2022-08-19 15:43:36 |[117]test.py     | 101085.png: PSNR 25.1727  SSIM 0.7002
+2022-08-19 15:43:37 |[117]test.py     | 101087.png: PSNR 29.4167  SSIM 0.8599
+2022-08-19 15:43:37 |[117]test.py     | 102061.png: PSNR 29.3122  SSIM 0.8571
+2022-08-19 15:43:37 |[117]test.py     | 103070.png: PSNR 29.8338  SSIM 0.8365
+2022-08-19 15:43:37 |[117]test.py     | 105025.png: PSNR 26.7733  SSIM 0.7917
+2022-08-19 15:43:37 |[117]test.py     | 106024.png: PSNR 32.3020  SSIM 0.8917
+2022-08-19 15:43:38 |[117]test.py     | 108005.png: PSNR 27.7896  SSIM 0.7946
+2022-08-19 15:43:38 |[117]test.py     | 108070.png: PSNR 25.3622  SSIM 0.7274
+2022-08-19 15:43:38 |[117]test.py     | 108082.png: PSNR 28.3231  SSIM 0.8188
+2022-08-19 15:43:38 |[117]test.py     | 109053.png: PSNR 28.8220  SSIM 0.7971
+2022-08-19 15:43:39 |[117]test.py     | 119082.png: PSNR 28.4830  SSIM 0.8704
+2022-08-19 15:43:39 |[117]test.py     | 12084.png: PSNR 27.0581  SSIM 0.7604
+2022-08-19 15:43:39 |[117]test.py     | 123074.png: PSNR 28.9217  SSIM 0.8081
+2022-08-19 15:43:39 |[117]test.py     | 126007.png: PSNR 30.1323  SSIM 0.8474
+2022-08-19 15:43:39 |[117]test.py     | 130026.png: PSNR 26.5553  SSIM 0.7575
+2022-08-19 15:43:40 |[117]test.py     | 134035.png: PSNR 27.5193  SSIM 0.8411
+2022-08-19 15:43:40 |[117]test.py     | 14037.png: PSNR 32.3981  SSIM 0.8552
+2022-08-19 15:43:40 |[117]test.py     | 143090.png: PSNR 32.2807  SSIM 0.8890
+2022-08-19 15:43:40 |[117]test.py     | 145086.png: PSNR 27.6200  SSIM 0.7899
+2022-08-19 15:43:40 |[117]test.py     | 147091.png: PSNR 28.1140  SSIM 0.8270
+2022-08-19 15:43:41 |[117]test.py     | 148026.png: PSNR 25.5193  SSIM 0.8476
+2022-08-19 15:43:41 |[117]test.py     | 148089.png: PSNR 26.5141  SSIM 0.7885
+2022-08-19 15:43:41 |[117]test.py     | 157055.png: PSNR 27.9587  SSIM 0.8455
+2022-08-19 15:43:41 |[117]test.py     | 159008.png: PSNR 27.8640  SSIM 0.8304
+2022-08-19 15:43:42 |[117]test.py     | 160068.png: PSNR 28.7172  SSIM 0.8962
+2022-08-19 15:43:42 |[117]test.py     | 16077.png: PSNR 27.7395  SSIM 0.7715
+2022-08-19 15:43:42 |[117]test.py     | 163085.png: PSNR 29.1433  SSIM 0.8037
+2022-08-19 15:43:42 |[117]test.py     | 167062.png: PSNR 32.6513  SSIM 0.8742
+2022-08-19 15:43:42 |[117]test.py     | 167083.png: PSNR 23.6632  SSIM 0.8066
+2022-08-19 15:43:43 |[117]test.py     | 170057.png: PSNR 29.0482  SSIM 0.7809
+2022-08-19 15:43:43 |[117]test.py     | 175032.png: PSNR 23.7806  SSIM 0.7770
+2022-08-19 15:43:43 |[117]test.py     | 175043.png: PSNR 25.7369  SSIM 0.7774
+2022-08-19 15:43:43 |[117]test.py     | 182053.png: PSNR 27.2007  SSIM 0.8788
+2022-08-19 15:43:44 |[117]test.py     | 189080.png: PSNR 32.9828  SSIM 0.8580
+2022-08-19 15:43:44 |[117]test.py     | 19021.png: PSNR 27.4075  SSIM 0.7786
+2022-08-19 15:43:44 |[117]test.py     | 196073.png: PSNR 27.3852  SSIM 0.5478
+2022-08-19 15:43:44 |[117]test.py     | 197017.png: PSNR 27.9631  SSIM 0.7612
+2022-08-19 15:43:44 |[117]test.py     | 208001.png: PSNR 28.2465  SSIM 0.7674
+2022-08-19 15:43:45 |[117]test.py     | 210088.png: PSNR 32.2004  SSIM 0.9123
+2022-08-19 15:43:45 |[117]test.py     | 21077.png: PSNR 28.8080  SSIM 0.7795
+2022-08-19 15:43:45 |[117]test.py     | 216081.png: PSNR 27.3394  SSIM 0.7920
+2022-08-19 15:43:45 |[117]test.py     | 219090.png: PSNR 29.0561  SSIM 0.8035
+2022-08-19 15:43:46 |[117]test.py     | 220075.png: PSNR 29.3589  SSIM 0.8667
+2022-08-19 15:43:46 |[117]test.py     | 223061.png: PSNR 27.4327  SSIM 0.8441
+2022-08-19 15:43:46 |[117]test.py     | 227092.png: PSNR 33.1990  SSIM 0.8653
+2022-08-19 15:43:46 |[117]test.py     | 229036.png: PSNR 25.7468  SSIM 0.7633
+2022-08-19 15:43:46 |[117]test.py     | 236037.png: PSNR 25.7437  SSIM 0.7545
+2022-08-19 15:43:47 |[117]test.py     | 24077.png: PSNR 28.6626  SSIM 0.9064
+2022-08-19 15:43:47 |[117]test.py     | 241004.png: PSNR 31.0330  SSIM 0.8084
+2022-08-19 15:43:47 |[117]test.py     | 241048.png: PSNR 26.2160  SSIM 0.7572
+2022-08-19 15:43:47 |[117]test.py     | 253027.png: PSNR 27.8918  SSIM 0.7912
+2022-08-19 15:43:47 |[117]test.py     | 253055.png: PSNR 31.5999  SSIM 0.8228
+2022-08-19 15:43:48 |[117]test.py     | 260058.png: PSNR 30.7582  SSIM 0.7619
+2022-08-19 15:43:48 |[117]test.py     | 271035.png: PSNR 28.5840  SSIM 0.8132
+2022-08-19 15:43:48 |[117]test.py     | 285079.png: PSNR 26.7722  SSIM 0.7609
+2022-08-19 15:43:48 |[117]test.py     | 291000.png: PSNR 23.1325  SSIM 0.7344
+2022-08-19 15:43:49 |[117]test.py     | 295087.png: PSNR 27.5466  SSIM 0.7930
+2022-08-19 15:43:49 |[117]test.py     | 296007.png: PSNR 30.4234  SSIM 0.7727
+2022-08-19 15:43:49 |[117]test.py     | 296059.png: PSNR 29.8539  SSIM 0.7702
+2022-08-19 15:43:49 |[117]test.py     | 299086.png: PSNR 30.4415  SSIM 0.7843
+2022-08-19 15:43:49 |[117]test.py     | 300091.png: PSNR 29.6465  SSIM 0.7891
+2022-08-19 15:43:50 |[117]test.py     | 302008.png: PSNR 33.2822  SSIM 0.9290
+2022-08-19 15:43:50 |[117]test.py     | 304034.png: PSNR 25.5985  SSIM 0.7871
+2022-08-19 15:43:50 |[117]test.py     | 304074.png: PSNR 26.1118  SSIM 0.6904
+2022-08-19 15:43:50 |[117]test.py     | 306005.png: PSNR 28.0054  SSIM 0.7945
+2022-08-19 15:43:50 |[117]test.py     | 3096.png: PSNR 37.4600  SSIM 0.9639
+2022-08-19 15:43:51 |[117]test.py     | 33039.png: PSNR 23.9664  SSIM 0.8181
+2022-08-19 15:43:51 |[117]test.py     | 351093.png: PSNR 25.3718  SSIM 0.8332
+2022-08-19 15:43:51 |[128]test.py     | 
+PSNR on test data 28.425820, SSIM on test data 0.808459
+2022-08-19 15:43:51 |[129]test.py     | Finish!
+
+2022-08-19 15:43:55 |[044]test.py     | Noise level: 50
+2022-08-19 15:43:55 |[046]test.py     | Loading model: pre_train/color_n50.pt Ensemble: False
+2022-08-19 15:43:58 |[117]test.py     | 1.tif: PSNR 26.1570  SSIM 0.7783
+2022-08-19 15:43:58 |[117]test.py     | 10.tif: PSNR 30.6629  SSIM 0.8559
+2022-08-19 15:43:59 |[117]test.py     | 11.tif: PSNR 31.0675  SSIM 0.8390
+2022-08-19 15:43:59 |[117]test.py     | 12.tif: PSNR 31.8658  SSIM 0.9008
+2022-08-19 15:43:59 |[117]test.py     | 13.tif: PSNR 35.1957  SSIM 0.9130
+2022-08-19 15:44:00 |[117]test.py     | 14.tif: PSNR 32.7276  SSIM 0.8752
+2022-08-19 15:44:00 |[117]test.py     | 15.tif: PSNR 32.4116  SSIM 0.8574
+2022-08-19 15:44:00 |[117]test.py     | 16.tif: PSNR 26.8984  SSIM 0.7593
+2022-08-19 15:44:01 |[117]test.py     | 17.tif: PSNR 27.2656  SSIM 0.7675
+2022-08-19 15:44:01 |[117]test.py     | 18.tif: PSNR 29.1925  SSIM 0.8183
+2022-08-19 15:44:01 |[117]test.py     | 2.tif: PSNR 29.2062  SSIM 0.8174
+2022-08-19 15:44:02 |[117]test.py     | 3.tif: PSNR 27.1190  SSIM 0.8572
+2022-08-19 15:44:02 |[117]test.py     | 4.tif: PSNR 30.6768  SSIM 0.9203
+2022-08-19 15:44:02 |[117]test.py     | 5.tif: PSNR 28.8957  SSIM 0.8270
+2022-08-19 15:44:03 |[117]test.py     | 6.tif: PSNR 29.7770  SSIM 0.8307
+2022-08-19 15:44:03 |[117]test.py     | 7.tif: PSNR 28.7311  SSIM 0.7810
+2022-08-19 15:44:03 |[117]test.py     | 8.tif: PSNR 30.9962  SSIM 0.8847
+2022-08-19 15:44:04 |[117]test.py     | 9.tif: PSNR 30.4261  SSIM 0.8723
+2022-08-19 15:44:04 |[128]test.py     | 
+PSNR on test data 29.959591, SSIM on test data 0.841959
+2022-08-19 15:44:04 |[129]test.py     | Finish!
+
