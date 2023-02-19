@@ -14,6 +14,7 @@
   <img src="Figs\fig4.png" alt="Fig2" width="800px"/>
 </p>
 </details>
+
 ## Environment
 
 - Python 3.6 + Pytorch 1.0 + CUDA 10.1
@@ -73,6 +74,8 @@ Please make sure your machine has a GPU, which is required for the DCNv2 module.
 
 ## Evaluation
 
+Part of pre-trained models: [Google drive](https://drive.google.com/file/d/1wYw8mHSyxmutpHTahn_j4wjv_p4sJHeq/view?usp=share_link)  [Baidu cloud](https://pan.baidu.com/s/1eAbY3IBSLigkRJJfoQJ73A&pwd=1995)
+
 ### RGB image denoising
 
 - cd ./ADFNet_RGB
@@ -128,4 +131,3 @@ If you use ADFNet, please consider citing:
 ```
 
 **Acknowledgment**: This code is based on the [MIRNet](https://github.com/swz30/MIRNet) and [DAGL](https://github.com/jianzhangcs/DAGL) toolbox.
-
