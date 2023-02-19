@@ -1,4 +1,0 @@
-DCN
-build
-functions
-modules
