@@ -13,8 +13,7 @@
 <p align="center">
   <img src="Figs\fig4.png" alt="Fig2" width="800px"/>
 </p>
-
-
+</details>
 ## Environment
 
 - Python 3.6 + Pytorch 1.0 + CUDA 10.1
@@ -129,3 +128,4 @@ If you use ADFNet, please consider citing:
 ```
 
 **Acknowledgment**: This code is based on the [MIRNet](https://github.com/swz30/MIRNet) and [DAGL](https://github.com/jianzhangcs/DAGL) toolbox.
+
