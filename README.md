@@ -74,7 +74,7 @@ Please make sure your machine has a GPU, which is required for the DCNv2 module.
 
 ## Evaluation
 
-Part of pre-trained models: [Google drive](https://drive.google.com/file/d/1wYw8mHSyxmutpHTahn_j4wjv_p4sJHeq/view?usp=share_link)  [Baidu cloud](https://pan.baidu.com/s/1eAbY3IBSLigkRJJfoQJ73A&pwd=1995)
+Part of pre-trained models: [Google drive](https://drive.google.com/file/d/1wYw8mHSyxmutpHTahn_j4wjv_p4sJHeq/view?usp=share_link) or [Baidu cloud](https://pan.baidu.com/s/1eAbY3IBSLigkRJJfoQJ73A&pwd=1995)
 
 ### RGB image denoising
 
