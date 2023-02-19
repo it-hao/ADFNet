@@ -1,0 +1,26 @@
+###############
+
+GPU: [0,1]
+
+VERBOSE: True
+
+MODEL:
+  MODE: 'Denoising'
+  SESSION: 'ADFNet'
+
+# Optimization arguments.
+OPTIM:
+  BATCH_SIZE: 16
+  NUM_EPOCHS: 120
+  LR_INITIAL: 1e-4
+  LR_MIN: 1e-6
+
+TRAINING:
+  TRAIN_PS: 128
+  VAL_PS: 256
+  RESUME: False
+  TRAIN_DIR: '/media/zqzhao/data_noise/SIDD/train_v2'
+  VAL_DIR: '/media/zqzhao/data_noise/SIDD/val'     # path to validation data
+  SAVE_DIR: './checkpoints'    # path to save models and images
+  SAVE_IMAGES: True
+  #VAL_AFTER_EVERY: 1
